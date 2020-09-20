@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.OnlineTest</groupId>
   <artifactId>OnlineTest</artifactId>
-  <packaging>jar</packaging>
+  <packaging>war</packaging>
   <version>2.0</version>
   <name>OnlineTest</name>
   <url>http://maven.apache.org</url>
